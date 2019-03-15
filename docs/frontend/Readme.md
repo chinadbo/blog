@@ -19,3 +19,10 @@
 ## Others
 
 [1.【译】PWA泛指南](./pwa.md)
+
+## Shares
+
+> Awesome Resources
+
+### Medium
+  [1. The Definitive Guide to Web Scraping with NodeJs & Puppeteer](https://learnscraping.com/nodejs-web-scraping-with-puppeteer/)

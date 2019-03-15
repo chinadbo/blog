@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/blog/',
   title: 'Ioodu Land',
   description: "Ioodu's blog, About web front end development and everything →",
   head:[
@@ -14,7 +15,7 @@ module.exports = {
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: 'Last Updated',
-    repo: 'chinadbo/blog',
+    repo: 'chinadbo',
     repoLabel: '查看源码',
     docsRepo: 'chinadbo/blog',
     docsDir: 'docs',
