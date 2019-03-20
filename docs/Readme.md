@@ -20,7 +20,10 @@ footer: MIT Licensed | Copyright © 2018-present Ioodu
 ::: tip
 Please contact me:
 
-📧email: chinadbo#gmail.com
+📧 Email: chinadbo#gmail.com
 
-🏠address: ShenZhen, China
+🏠 Address: ShenZhen, China
+
+🔗 Website: www.ioodu.com
+
 :::
